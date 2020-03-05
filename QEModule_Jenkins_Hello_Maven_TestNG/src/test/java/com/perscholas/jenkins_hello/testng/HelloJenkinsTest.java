@@ -20,7 +20,7 @@ public class HelloJenkinsTest {
 	@Test
 	public void testHelloJenkinsAgain() {
 		actual = HelloJenkins.helloJenkinsAgain();
-		expected = "Hello Jenkins again";
+		expected = "Hello Jenkins again!!!";
 		assertEquals(actual, expected);
 	}
 }
