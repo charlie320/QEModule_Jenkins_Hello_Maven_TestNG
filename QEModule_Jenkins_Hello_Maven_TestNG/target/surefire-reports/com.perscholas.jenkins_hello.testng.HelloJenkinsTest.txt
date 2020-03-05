@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.perscholas.jenkins_hello.testng.HelloJenkinsTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.692 sec
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.76 s <<< FAILURE! - in com.perscholas.jenkins_hello.testng.HelloJenkinsTest
+com.perscholas.jenkins_hello.testng.HelloJenkinsTest.testHelloJenkinsAgain  Time elapsed: 0.015 s  <<< FAILURE!
+java.lang.AssertionError: expected [Hello Jenkins again] but found [Hello Jenkins again!!!]
+	at com.perscholas.jenkins_hello.testng.HelloJenkinsTest.testHelloJenkinsAgain(HelloJenkinsTest.java:24)
+
