@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.perscholas.jenkins_hello.testng.HelloJenkinsTest" duration-ms="78" started-at="2020-03-05T10:40:12 CST" finished-at="2020-03-05T10:40:12 CST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="78" started-at="2020-03-05T10:40:12 CST" finished-at="2020-03-05T10:40:12 CST">
+      <class name="com.perscholas.jenkins_hello.testng.HelloJenkinsTest">
+        <test-method status="PASS" signature="testHelloJenkins()[pri:0, instance:com.perscholas.jenkins_hello.testng.HelloJenkinsTest@29ee9faa]" name="testHelloJenkins" duration-ms="17" started-at="2020-03-05T10:40:12 CST" finished-at="2020-03-05T10:40:12 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHelloJenkins -->
+        <test-method status="PASS" signature="testHelloJenkinsAgain()[pri:0, instance:com.perscholas.jenkins_hello.testng.HelloJenkinsTest@29ee9faa]" name="testHelloJenkinsAgain" duration-ms="1" started-at="2020-03-05T10:40:12 CST" finished-at="2020-03-05T10:40:12 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHelloJenkinsAgain -->
+      </class> <!-- com.perscholas.jenkins_hello.testng.HelloJenkinsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.perscholas.jenkins_hello.testng.HelloJenkinsTest -->
+</testng-results>
