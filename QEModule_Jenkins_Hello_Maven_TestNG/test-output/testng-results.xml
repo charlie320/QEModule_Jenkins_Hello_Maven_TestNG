@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="116" started-at="2020-03-05T09:14:30 CST" finished-at="2020-03-05T09:14:30 CST">
+  <suite name="Default suite" duration-ms="96" started-at="2020-03-05T10:14:57 CST" finished-at="2020-03-05T10:14:57 CST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="116" started-at="2020-03-05T09:14:30 CST" finished-at="2020-03-05T09:14:30 CST">
+    <test name="Default test" duration-ms="96" started-at="2020-03-05T10:14:57 CST" finished-at="2020-03-05T10:14:57 CST">
       <class name="com.perscholas.jenkins_hello.testng.HelloJenkinsTests">
-        <test-method status="PASS" signature="testHelloJenkins()[pri:0, instance:com.perscholas.jenkins_hello.testng.HelloJenkinsTests@3b0143d3]" name="testHelloJenkins" duration-ms="15" started-at="2020-03-05T09:14:30 CST" finished-at="2020-03-05T09:14:30 CST">
+        <test-method status="PASS" signature="testHelloJenkins()[pri:0, instance:com.perscholas.jenkins_hello.testng.HelloJenkinsTests@3b0143d3]" name="testHelloJenkins" duration-ms="15" started-at="2020-03-05T10:14:57 CST" finished-at="2020-03-05T10:14:57 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHelloJenkins -->
-        <test-method status="PASS" signature="testHelloJenkinsAgain()[pri:0, instance:com.perscholas.jenkins_hello.testng.HelloJenkinsTests@3b0143d3]" name="testHelloJenkinsAgain" duration-ms="6" started-at="2020-03-05T09:14:30 CST" finished-at="2020-03-05T09:14:30 CST">
+        <test-method status="PASS" signature="testHelloJenkinsAgain()[pri:0, instance:com.perscholas.jenkins_hello.testng.HelloJenkinsTests@3b0143d3]" name="testHelloJenkinsAgain" duration-ms="4" started-at="2020-03-05T10:14:57 CST" finished-at="2020-03-05T10:14:57 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHelloJenkinsAgain -->

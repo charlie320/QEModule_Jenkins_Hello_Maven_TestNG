@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import com.perscholas.jenkins_hello.HelloJenkins;
 
-public class HelloJenkinsTests {
+public class HelloJenkinsTest {
 	private String actual = null;
 	private String expected = null;
 	
